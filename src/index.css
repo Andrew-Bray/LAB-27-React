@@ -1,0 +1,4 @@
+@font-face {
+  font-family: 'X-files';
+  src: local('X-files'), url(./assets/x-files.ttf) format('truetype');
+}
