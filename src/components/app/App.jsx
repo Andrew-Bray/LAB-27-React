@@ -4,10 +4,10 @@ import {
   Route,
   Switch,
 } from 'react-router-dom';
-import ListPage from '../listpage/ListPage';
-import DetailPage from '../detailpage/DetailPage';
-import Home from '../home/Home';
-import Header from '../header/Header';
+import ListPage from '../listpage/ListPage.jsx';
+import DetailPage from '../detailpage/DetailPage.jsx';
+import Home from '../home/Home.jsx';
+import Header from '../header/Header.jsx';
 
 export default function App() {
   return (
