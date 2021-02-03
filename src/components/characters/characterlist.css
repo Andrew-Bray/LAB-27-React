@@ -1,0 +1,10 @@
+.MyList {
+  min-height: 350px;
+  background-color: rgb(3, 47, 53);
+  color: rgb(235, 228, 220);
+  font-family: 'X-files', serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
